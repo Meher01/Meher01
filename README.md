@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Pursuing B.Tech in CSE (Core) at Narayana Engineering College, Nellore<br><br>💻 Passionate about technology & problem-solving<br><br>🎯 Short-term goal: Secure an on/off-campus placement<br><br>🚀 Long-term goal: Become a skilled Backend Developer<br><br>☕ Learning Java as my main programming language<br><br>🔧 Exploring other backend technologies to expand my skills<br><br>🌐 Completed a Web Development Internship at CodSoft<br><br>🎶 Love listening to music for motivation & creativity
+🎓 Pursuing B.Tech in CSE (Core) at Narayana Engineering College, Nellore<br>💻 Passionate about technology & problem-solving<br>🎯 Short-term goal: Secure an on/off-campus placement<br>🚀 Long-term goal: Become a skilled Backend Developer<br>☕ Learning Java as my main programming language<br>🔧 Exploring other backend technologies to expand my skills<br>🌐 Completed a Web Development Internship at CodSoft<br>🎶 Love listening to music for motivation & creativity
 
 
 ## 🌐 Socials:
