@@ -1,21 +1,69 @@
-# 💫 About Me:
-🎓 Pursuing B.Tech in CSE (Core) at Narayana Engineering College, Nellore<br>💻 Passionate about technology & problem-solving<br>🎯 Short-term goal: Secure an on/off-campus placement<br>🚀 Long-term goal: Become a skilled Backend Developer<br>☕ Learning Java as my main programming language<br>🔧 Exploring other backend technologies to expand my skills<br>🌐 Completed a Web Development Internship at CodSoft<br>🎶 Love listening to music for motivation & creativity
+<p align="center">
+  <a href="https://github.com/Meher01">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Lasya" alt="Hello! I&#39;m Lasya" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=715&height=44&lines=Starter%20on%20GitHub.;Too%20many%20resources%20are%20injurious%20to%20health%20%F0%9F%98%82" alt="Typing headlines" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lasya-lingam-6369a1329/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meherlaasya@gmail.com) 
+### 🚀 About Me
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Meher01&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Meher01&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meher01&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💫 About Me:  
+🎓 Pursuing B.Tech in CSE (Core) at Narayana Engineering College, Nellore  
+💻 Passionate about technology &amp; problem-solving  
+🎯 Short-term goal: Secure an on/off-campus placement  
+🚀 Long-term goal: Become a skilled Backend Developer  
+☕ Learning Java as my main programming language  
+🔧 Exploring other backend technologies to expand my skills  
+🌐 Completed a Web Development Internship at CodSoft  
+🎶 Love listening to music for motivation &amp; creativity
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Meher01&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
+😄 &nbsp;Pronouns: **the lady boss?**  
+⚡ &nbsp;Fun fact: **Forgetting what i've learned just now.....**
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/lasya-lingam" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://personal-blog-app-red.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:meherlaasya@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Meher01&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Meher01&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Meher01&bg_color=00000000&color=a855f7&line=a855f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Meher01&icon=7&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><i>⭐️ From <a href="https://github.com/Meher01">Meher01</a></i></p>
