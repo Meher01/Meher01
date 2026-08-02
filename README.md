@@ -10,7 +10,6 @@
 
 ### 🚀 About Me
 
-💫 About Me:  
 🎓 Pursuing B.Tech in CSE (Core) at Narayana Engineering College, Nellore  
 💻 Passionate about technology &amp; problem-solving  
 🎯 Short-term goal: Secure an on/off-campus placement  
