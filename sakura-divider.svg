@@ -1,0 +1,35 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100">
+  <defs>
+    <g id="blossom">
+      <ellipse cx="0" cy="-9" rx="5" ry="9" fill="#f5a9c6"/>
+      <ellipse cx="0" cy="-9" rx="5" ry="9" fill="#ffd6e7" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-9" rx="5" ry="9" fill="#f5a9c6" transform="rotate(144)"/>
+      <ellipse cx="0" cy="-9" rx="5" ry="9" fill="#ffd6e7" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-9" rx="5" ry="9" fill="#f5a9c6" transform="rotate(288)"/>
+      <circle r="2.5" fill="#ffe9a8"/>
+    </g>
+  </defs>
+
+  <path d="M0 55 Q150 5 300 55 T600 55 T900 55 T1200 55"
+        fill="none" stroke="#d98eae" stroke-width="2" opacity=".7"/>
+
+  <g>
+    <use href="#blossom" transform="translate(80 38)"/>
+    <use href="#blossom" transform="translate(220 65) scale(.8)"/>
+    <use href="#blossom" transform="translate(390 30) scale(1.1)"/>
+    <use href="#blossom" transform="translate(600 55)"/>
+    <use href="#blossom" transform="translate(810 28) scale(.9)"/>
+    <use href="#blossom" transform="translate(980 65)"/>
+    <use href="#blossom" transform="translate(1130 35) scale(1.1)"/>
+  </g>
+
+  <g fill="#e9a6c2" opacity=".8">
+    <circle cx="150" cy="20" r="3"/>
+    <circle cx="320" cy="80" r="3"/>
+    <circle cx="500" cy="20" r="3"/>
+    <circle cx="720" cy="85" r="3"/>
+    <circle cx="900" cy="15" r="3"/>
+    <circle cx="1060" cy="80" r="3"/>
+  </g>
+</svg>
