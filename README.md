@@ -2,16 +2,16 @@
 <!-- 🌸 SAKURA PROFILE HEADER -->
 <p align="center">
   <a href="https://github.com/Meher01">
-    <img src="./sakura-banner.svg" width="100%" alt="Welcome to Lasya's Sakura Garden" />
+    <img src="./sakura-banner.svg" width="100%" alt="Lasya Lingam @ Final Year Student" />
   </a>
 </p>
 
 <h1 align="center">
-  🌸 Hey there, I'm Lasya! 🌸
+  🌸 I'm Lasya! 🌸
 </h1>
 
 <p align="center">
-  <i>Dreaming in pink, coding with passion, and growing one commit at a time.</i>
+  <i>Aspiring SDE | Cloud Engineer</i>
 </p>
 
 <p align="center">
@@ -110,12 +110,11 @@
 
 ---
 
-## 🌷 A Little Reminder
+## 🌷 Remember...
 
 <p align="center">
   <i>"Like sakura blossoms, bloom beautifully in your own time."</i>
   <br/>
-  <b>Keep learning. Keep growing. Keep blooming. 🌸</b>
 </p>
 
 <p align="center">
