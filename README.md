@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  🌸 I'm Lasya! 🌸
+  🌸 Ola! I'm Lasya Lingam 🌸
 </h1>
 
 <p align="center">
@@ -15,12 +15,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&duration=3000&pause=1000&color=E78FB3&center=true&vCenter=true&width=550&lines=Aspiring+Backend+Developer+%F0%9F%8C%B8;Java+Enthusiast+%E2%98%95;Always+Learning%2C+Always+Growing+%F0%9F%8C%B7;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&duration=3000&pause=1000&color=E78FB3&center=true&vCenter=true&width=550&lines=Aspiring+AI+Solutions+Engineer+%F0%9F%8C%B8;Java+and+DSA+Enthusiast+%E2%98%95;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <table>
 <tr>
-<td width="60%" valign="top" align="left">
+<td width="100%" valign="top" align="left">
 
 🎓 B.Tech in CSE (Core) at Narayana Engineering College, Nellore
   <br>
@@ -28,28 +28,28 @@
  <br>
  🎯 Short-term goal: Secure an on/off-campus placement
  <br>
-🚀 Long-term goal: Become a skilled Backend Developer
+🚀 Long-term goal: Become a skilled Cloud Engineer
 <br>
 ☕ Currently learning Java as my main programming language
 <br>
-🔧 Exploring backend technologies and development
+🔧 Exploring open - source and AI/ML
 <br>
-🌐 Completed a Web Development Internship at CodSoft
+🌐 Check out my portfolio to know more about me since I'm lazy to explain...
 <br>
-🎶 Music is my motivation and creativity fuel.
+🎶 I cannot live without MUSIC and ANIME.
 
 <br/>
 
 **😄 Pronouns:** The lady boss? 👑
 
-**⚡ Fun fact:** Forgetting what I've learned just now..... 🥲
+**⚡ Fun fact:** I forget what I learned just now..... maybe not. 🥲
 
 </td>
 <td width="40%" align="center" valign="middle">
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Cute coding cat" />
 
-<i>Keep calm and keep coding! 🌸</i>
+<i>Me when I randomly feel motivated at 1 AM</i>
 
 </td>
 </tr>
@@ -113,5 +113,5 @@
 <p align="center">
   <i>Thanks for visiting my little corner of GitHub!</i>
   <br/>
-  🌸 Made with love by <a href="https://github.com/Meher01">Lasya</a> 🌸
+   🌸
 </p>
