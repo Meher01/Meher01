@@ -1,26 +1,24 @@
 <p align="center">
   <a href="https://github.com/Meher01">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Lasya" alt="Hello! I&#39;m Lasya" />
+    <img src="./sakura-banner.svg" alt="Hello! I'm Lasya" width="100%" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=715&height=44&lines=Starter%20on%20GitHub.;Too%20many%20resources%20are%20injurious%20to%20health%20%F0%9F%98%82" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
 🎓 Pursuing B.Tech in CSE (Core) at Narayana Engineering College, Nellore  
-💻 Passionate about technology &amp; problem-solving  
+💻 Passionate about technology & problem-solving  
 🎯 Short-term goal: Secure an on/off-campus placement  
 🚀 Long-term goal: Become a skilled Backend Developer  
 ☕ Learning Java as my main programming language  
 🔧 Exploring other backend technologies to expand my skills  
 🌐 Completed a Web Development Internship at CodSoft  
-🎶 Love listening to music for motivation &amp; creativity
+🎶 Love listening to music for motivation & creativity  
 
 😄 &nbsp;Pronouns: **the lady boss?**  
 ⚡ &nbsp;Fun fact: **Forgetting what i've learned just now.....**
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -43,13 +41,17 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
+---
+
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/lasya-lingam" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/lasya-lingam" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://personal-blog-app-red.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:meherlaasya@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+---
 
 ### 📊 GitHub Stats
 
@@ -58,5 +60,6 @@
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Meher01&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
----
+<img src="./sakura-divider.svg" width="100%" />
+
 <p align="center"><i>⭐️ From <a href="https://github.com/Meher01">Meher01</a></i></p>
