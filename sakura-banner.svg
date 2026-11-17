@@ -1,3 +1,89 @@
-<svg fill="none" viewBox="0 0 800 440" width="800" height="440" xmlns="http://www.w3.org/2000/svg">
-  
-    
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#25172b"/>
+      <stop offset="50%" stop-color="#633c59"/>
+      <stop offset="100%" stop-color="#d58ba9"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#ffe5ef" stop-opacity=".8"/>
+      <stop offset="100%" stop-color="#ffe5ef" stop-opacity="0"/>
+    </radialGradient>
+    <g id="flower">
+      <ellipse cx="0" cy="-13" rx="8" ry="13" fill="#ffd6e7"/>
+      <ellipse cx="0" cy="-13" rx="8" ry="13" fill="#f5a9c6" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-13" rx="8" ry="13" fill="#ffd6e7" transform="rotate(144)"/>
+      <ellipse cx="0" cy="-13" rx="8" ry="13" fill="#f5a9c6" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-13" rx="8" ry="13" fill="#ffd6e7" transform="rotate(288)"/>
+      <circle r="4" fill="#ffe9a8"/>
+    </g>
+  </defs>
+
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <circle cx="600" cy="140" r="250" fill="url(#glow)" opacity=".5"/>
+
+  <!-- Branches -->
+  <g fill="none" stroke="#382438" stroke-width="7" stroke-linecap="round">
+    <path d="M0 40 Q130 70 220 150 T390 210"/>
+    <path d="M0 40 Q100 5 180 15"/>
+    <path d="M1200 25 Q1080 70 1000 145 T830 215"/>
+    <path d="M1200 25 Q1100 0 1020 10"/>
+  </g>
+
+  <!-- Blossoms -->
+  <g>
+    <use href="#flower" transform="translate(100 52) scale(1.2)"/>
+    <use href="#flower" transform="translate(190 105)"/>
+    <use href="#flower" transform="translate(260 157) scale(.9)"/>
+    <use href="#flower" transform="translate(180 28) scale(.8)"/>
+    <use href="#flower" transform="translate(1090 55) scale(1.2)"/>
+    <use href="#flower" transform="translate(1000 110)"/>
+    <use href="#flower" transform="translate(925 165) scale(.9)"/>
+    <use href="#flower" transform="translate(1040 25) scale(.8)"/>
+  </g>
+
+  <!-- Falling petals -->
+  <g fill="#ffd6e7" opacity=".8">
+    <ellipse cx="360" cy="65" rx="5" ry="9" transform="rotate(35 360 65)">
+      <animate attributeName="cy" values="65;290" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="360;430;390;460" dur="8s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="790" cy="40" rx="5" ry="9" transform="rotate(-30 790 40)">
+      <animate attributeName="cy" values="40;290" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="790;730;820;760" dur="10s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="500" cy="10" rx="4" ry="7">
+      <animate attributeName="cy" values="10;290" dur="9s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="680" cy="90" rx="5" ry="8">
+      <animate attributeName="cy" values="90;290" dur="7s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- Title -->
+  <text x="600" y="125" text-anchor="middle"
+        font-family="Georgia,serif" font-size="47"
+        font-weight="bold" fill="#fff0f6">
+    Welcome to My Sakura Garden
+  </text>
+
+  <text x="600" y="170" text-anchor="middle"
+        font-family="Verdana,sans-serif" font-size="21"
+        letter-spacing="4" fill="#ffe0ec">
+    L A S Y A  •  D E V E L O P E R
+  </text>
+
+  <text x="600" y="215" text-anchor="middle"
+        font-family="Georgia,serif" font-size="19"
+        font-style="italic" fill="#fff0f6">
+    Blooming through code, one day at a time ♡
+  </text>
+
+  <g fill="#fff0f6" opacity=".8">
+    <text x="410" y="250" font-size="20">✿</text>
+    <text x="780" y="260" font-size="20">✿</text>
+    <text x="570" y="45" font-size="15">✧</text>
+    <text x="630" y="270" font-size="13">✧</text>
+  </g>
+</svg>
