@@ -11,29 +11,32 @@
 </h1>
 
 <p align="center">
-  <i>Aspiring SDE | Cloud Engineer</i>
+  <i><strong>Open to Internships</strong>  &&  <strong>Entry level jobs.</strong></i>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&duration=3000&pause=1000&color=E78FB3&center=true&vCenter=true&width=550&lines=Aspiring+Backend+Developer+%F0%9F%8C%B8;Java+Enthusiast+%E2%98%95;Always+Learning%2C+Always+Growing+%F0%9F%8C%B7;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
----
-
-## 🌷 About Me
-
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="60%" valign="top" align="left">
 
-- 🎓 B.Tech in CSE (Core) at Narayana Engineering College, Nellore
-- 💻 Passionate about technology and problem-solving
-- 🎯 Short-term goal: Secure an on/off-campus placement
-- 🚀 Long-term goal: Become a skilled Backend Developer
-- ☕ Currently learning Java as my main programming language
-- 🔧 Exploring backend technologies and development
-- 🌐 Completed a Web Development Internship at CodSoft
-- 🎶 Music is my motivation and creativity fuel!
+🎓 B.Tech in CSE (Core) at Narayana Engineering College, Nellore
+  <br>
+ 💻 Passionate about technology and problem-solving
+ <br>
+ 🎯 Short-term goal: Secure an on/off-campus placement
+ <br>
+🚀 Long-term goal: Become a skilled Backend Developer
+<br>
+☕ Currently learning Java as my main programming language
+<br>
+🔧 Exploring backend technologies and development
+<br>
+🌐 Completed a Web Development Internship at CodSoft
+<br>
+🎶 Music is my motivation and creativity fuel.
 
 <br/>
 
@@ -52,13 +55,7 @@
 </tr>
 </table>
 
----
-
 ## 🌸 My Tech Garden
-
-<p align="center">
-  <i>Every skill is another flower in my garden of knowledge.</i>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -79,8 +76,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
----
-
 ## 🌺 Let's Connect
 
 <p align="center">
@@ -95,8 +90,6 @@
   </a>
 </p>
 
----
-
 ## 🌸 GitHub Activity
 
 <p align="center">
@@ -107,10 +100,6 @@
 <p align="center">
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Meher01&theme=tokyonight&hide_border=true&ring=E78FB3&fire=F4A6B7&currStreakLabel=E78FB3&background=00000000" alt="GitHub Streak" />
 </p>
-
----
-
-## 🌷 Remember...
 
 <p align="center">
   <i>"Like sakura blossoms, bloom beautifully in your own time."</i>
