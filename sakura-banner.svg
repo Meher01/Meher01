@@ -65,19 +65,19 @@
   <text x="600" y="125" text-anchor="middle"
         font-family="Georgia,serif" font-size="47"
         font-weight="bold" fill="#fff0f6">
-    Welcome to My Sakura Garden
+    Lasya Lingam @ Final Year CS Student
   </text>
 
   <text x="600" y="170" text-anchor="middle"
         font-family="Verdana,sans-serif" font-size="21"
         letter-spacing="4" fill="#ffe0ec">
-    L A S Y A  •  D E V E L O P E R
+    Always Exploring and Levelling up!!!
   </text>
 
   <text x="600" y="215" text-anchor="middle"
         font-family="Georgia,serif" font-size="19"
         font-style="italic" fill="#fff0f6">
-    Blooming through code, one day at a time ♡
+    An idiot at motion > a genius at rest.
   </text>
 
   <g fill="#fff0f6" opacity=".8">
